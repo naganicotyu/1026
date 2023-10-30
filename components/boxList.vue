@@ -1,7 +1,7 @@
 <template>
 <div class="boxList">
     <div  v-for="box in boxes" :key="box.title" class="boxListVfor">
-        <div bind:class='[box.boxNumber,{active:isActive}]'>
+        <div v-bind:class='[boxCommon,box.boxNumber,{active:isActive}]'>
 
             <p class="boxTitle">
                 {{box.title}}
@@ -29,17 +29,21 @@
 
 <style>
 .boxList{
-    margin:10ox;
+    margin:10px;
     width: 800px;
-    height:1200px;
+    height:600px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 2fr 1fr;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.boxListVfor{}
+.box1,.box2,.box3,.box4{
+    border:solid #00DC82 1px;
+}
 
-.box1{
+ .box1{
     grid-row:2/3;
     grid-column:1/2;
 }
