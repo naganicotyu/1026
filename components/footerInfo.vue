@@ -11,10 +11,13 @@
 margin-top: 100px;
 background-color:#5e5e5e;
 width: 100%;
+position: relative;
+bottom:0px;
 }
 
 .footerText{
     font-size: large;
     color: aquamarine;
+    position:absolute;
 }
 </style>
