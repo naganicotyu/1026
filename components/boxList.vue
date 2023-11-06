@@ -17,7 +17,7 @@
                 data(){
                 return{
                     boxes:[
-                    {boxNumber:"box1",title:"プロフィール",primary:"(名前:HN/生年月日:1998-06-29/趣味:酒)",secondary:"和歌山大学システム工学部卒。WEBシェーダーに関する技術に熱中する。卒業後フリーターとなり、塾講師やデータ校正のバイトをしながらその日暮らしを謳歌する。趣味は言語学とカメラと電子楽器収集(特にKORG製品)。",isActive:false},
+                    {boxNumber:"box1",title:"プロフィール",primary:"(名前:KON/生年月日:1998-06-29/趣味:酒)",secondary:"和歌山大学システム工学部卒。在学中はWEBシェーダーいじりを中心に、毎日地酒を嗜み楽しく過ごす。卒業後フリーターとなり、塾講師やデータ校正のバイトをしながらその日暮らしを謳歌する。趣味は言語学とカメラと電子楽器収集(特にKORG製品)。",isActive:false},
                     {boxNumber:"box2",title:"twitter",primary:"twitterです。基本的に作品の公開はこちらで行っております。",link:"https://twitter.com/K0NEHI",isActive:false},
                     {boxNumber:"box3",title:"絵",primary:"//カルーセルメニューの準備中。少々お待ちください。",secondary:"",isActive:false},
                     {boxNumber:"box4",title:"スケジュール",primary:"ふわふわ予定：現在、VR空間における全天球webサイトにを鋭意制作中。ユビキタスの変遷により、webサイトも平面からレイヤーへ、レイヤーからVRへと進化していくのでは？という問いから出発しました。",secondary:"マジ予定：12/2 歯医者　予約",isActive:false},

@@ -1,6 +1,6 @@
 <template>
 <div class="footerBody">
-    <div class="footerText">created by HN</div>
+    <div class="footerText">created by KON</div>
     <div class="footerText">        mail:nagabicotyu@gmail.com</div>
     </div>
 
