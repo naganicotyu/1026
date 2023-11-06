@@ -18,6 +18,5 @@ export default Vue.extend({
 <style>
 .mainPage{
   background-color: rgb(38, 38, 214);
-  height: auto;
 }
 </style>

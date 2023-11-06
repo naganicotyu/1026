@@ -91,7 +91,12 @@
         height:100px;
         padding:0px;
         overflow: scroll;
+        
     }
+
+    .boxText::-webkit-scrollbar{
+  display: none;
+}
     
     .boxTextSwitch-leave-active,.boxTextSwitch-enter-active{
         transition:height 0.5s linear;
