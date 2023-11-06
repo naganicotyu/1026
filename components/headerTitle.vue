@@ -51,7 +51,7 @@
 
 @keyframes typing{
   0% { width: 0%; }
-  100% { width: 17em; }
+  100% { width: 14em; }
 }
 
 @keyframes cursol{
