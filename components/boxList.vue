@@ -55,7 +55,8 @@
         border:2px double #ffffff;
 
         margin:10px;
-        width: 650px;
+        width: 80%;
+        max-width: 650px;
         height:120%;
         margin-top: 0px;
         margin-left: auto;
