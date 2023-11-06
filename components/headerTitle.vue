@@ -1,6 +1,6 @@
 <template>
   <div class="headerBody">
-    <p class="headerTitle">KON:/> Website/home --information</p>
+    <p class="headerTitle">KON:/> Website/home --info</p>
     <p class="headerInstraction">KONのHomepageにようこそ。今後の活動情報などを掲載しています。</p>
 
   </div>
