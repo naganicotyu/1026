@@ -90,7 +90,7 @@
     .boxText{
         height:100px;
         padding:0px;
-        overflow: hidden;
+        overflow: scroll;
     }
     
     .boxTextSwitch-leave-active,.boxTextSwitch-enter-active{
